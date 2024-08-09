@@ -1,0 +1,5 @@
+{
+    "source_db": "source.db",
+    "destination_db": "destination.db",
+    "log_file": "etl_pipeline.log"
+}
